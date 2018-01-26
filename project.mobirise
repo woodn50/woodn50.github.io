@@ -37,7 +37,7 @@
     "versionPublish": "4.6.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/dk-1-128x128.png",
     "noImageResize": "",
     "cookiesAlert": "",
     "google-analytics": "",
