@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="278.24mm" height="300.53mm" version="1.1" viewBox="0 0 278.24 300.53" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="translate(159.15 1.434)">
+  <g transform="matrix(.33074 0 0 .33074 -432.88 -272.14)">
+   <rect x="898.69" y="890.6" width="699.14" height="764.51" ry="3.1322" fill="#d40000" stroke="#d40000" stroke-linecap="square" stroke-width="116.75" style="paint-order:markers fill stroke"/>
+   <g transform="matrix(.93409 0 0 .93409 461.56 -55.55)" fill="#1a1a1a" stroke="#e6e6e6" stroke-width="10.706" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal" aria-label="FR">
+    <path d="m451.33 1582.4h210.28v-185.44h113.42v-151.5h-113.42v-71.196h149.84v-170.54h-360.12z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+    <path d="m1233.1 1582.4v-152.33c0-37.254-27.319-67.056-55.466-71.196v-5.795c28.147-4.9671 55.466-34.77 55.466-72.024v-196.2c0-72.852-51.327-81.13-83.614-81.13h-341.08v578.67h187.92v-138.25h22.352c13.246 0 26.491 11.59 26.491 24.836v113.42zm-236.77-440.42h23.18c14.901 0 25.664 11.59 25.664 21.524v108.45c0 9.9343-10.762 20.696-25.664 20.696h-23.18z" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal"/>
+   </g>
+   <text x="872.35345" y="1545.8007" fill="#ffffff" font-family="sans-serif" font-size="127.36px" letter-spacing="0px" stroke-width="3.1841" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="872.35345" y="1545.8007">FREDERICK</tspan></text>
+   <text transform="scale(1.0552 .94769)" x="821.7793" y="1745.7346" fill="#1a1a1a" font-family="sans-serif" font-size="134.39px" letter-spacing="0px" stroke-width="3.3599" word-spacing="0px" style="font-feature-settings:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;line-height:1.25" xml:space="preserve"><tspan x="821.7793" y="1745.7346" fill="#1a1a1a" stroke-width="3.3599">RADIATOR</tspan></text>
+  </g>
+ </g>
+</svg>
